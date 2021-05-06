@@ -1,1 +1,1 @@
-# module1
+# module1Paypal-Courses
